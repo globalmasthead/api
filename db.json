@@ -1,174 +1,1221 @@
 {
-  "header": {
-    "Menuitems": [
-      {
-        "href": "#",
-        "text": "Cloud",
-        "promoHref": "/content/emc/en-us/cloud/index.htm",
-        "promoSubTitle": "<p>Simplify, streamline and automate cloud operations with the industry's fastest hybrid cloud deployment.</p>\n",
-        "promoTitle": "Explore cloud",
-        "promoTarget": "0",
-        "ctaList": [
-          {
-            "href": "/content/emc/en-us/cloud/dell-technologies-cloud/benefits.htm",
-            "metrics": "0",
-            "text": "Why Choose Dell Technologies Cloud?",
-            "target": "0"
-          },
-          {
-            "href": "/content/emc/en-us/cloud/dell-technologies-cloud/use-cases.htm",
-            "metrics": "0",
-            "text": "Cloud Use Cases",
-            "target": "0"
-          },
-          {
-            "href": "/content/emc/en-us/cloud/dell-technologies-cloud/consumption-options.htm",
-            "metrics": "0",
-            "text": "Consumption Options",
-            "target": "0"
-          }
-        ],
-        "children": [
-          {
-            "text": "Platforms",
-            "children": [
-              {
-                "href": "/content/emc/en-us/cloud/platforms/dell-technologies-cloud-platform.htm",
-                "metrics": "0",
-                "text": "Dell Technologies Cloud Platform",
-                "target": "0"
-              },
-              {
-                "href": "/content/emc/en-us/cloud/platforms/data-center-as-a-service.htm",
-                "metrics": "0",
-                "text": "Data Center as-a-Service",
-                "target": "0"
-              }
-            ]
-          },
-          {
-            "text": "Cloud Services",
-            "children": [
-              {
-                "href": "/content/emc/en-us/cloud/cloud-services/storage/index.htm",
-                "metrics": "0",
-                "text": "Storage",
-                "target": "0"
-              },
-              {
-                "href": "/content/emc/en-us/cloud/cloud-services/data-protection/index.htm",
-                "metrics": "0",
-                "text": "Data Protection",
-                "target": "0"
-              }
-            ]
-          },
-          {
-            "text": "Solutions",
-            "children": [
-              {
-                "href": "/content/emc/en-us/cloud/solutions/validated-designs.htm",
-                "metrics": "0",
-                "text": "Validated Designs",
-                "target": "0"
-              },
-              {
-                "href": "/content/emc/en-us/cloud/solutions/vdi.htm",
-                "metrics": "0",
-                "text": "VDI",
-                "target": "0"
-              }
-            ]
-          },
-          {
-            "text": "Technology Services",
-            "children": [
-              {
-                "href": "/content/emc/en-us/cloud/technology-services/index.htm#tab0=0",
-                "metrics": "0",
-                "text": "Consulting",
-                "target": "0"
-              },
-              {
-                "href": "/content/emc/en-us/cloud/technology-services/index.htm#tab0=1",
-                "metrics": "0",
-                "text": "Managed Services",
-                "target": "0"
-              },
-              {
-                "href": "/content/emc/en-us/cloud/technology-services/index.htm#tab0=2",
-                "metrics": "0",
-                "text": "Education",
-                "target": "0"
-              }
-            ]
-          },
-          {
-            "text": "Partners",
-            "children": [
-              {
-                "href": "/content/emc/en-us/cloud/partners/partner-overview.htm",
-                "metrics": "0",
-                "text": "Partner Overview",
-                "target": "0"
-              },
-              {
-                "href": "/content/emc/en-us/cloud/partners/find-a-partner.htm",
-                "metrics": "0",
-                "text": "Why Work with a Dell Technologies Cloud Partner?",
-                "target": "0"
-              },
-              {
-                "href": "/content/emc/en-us/cloud/partners/become-a-partner.htm",
-                "metrics": "0",
-                "text": "Why Become a Dell Technologies Cloud Partner?",
-                "target": "0"
-              }
-            ]
-          },
-          {
-            "text": "Resources",
-            "children": [
-              {
-                "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=0",
-                "metrics": "0",
-                "text": "Analyst Reports and White Papers",
-                "target": "0"
-              },
-              {
-                "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=1",
-                "metrics": "0",
-                "text": "Solution Briefs and Data Sheets",
-                "target": "0"
-              },
-              {
-                "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=2",
-                "metrics": "0",
-                "text": "Infographics and eBooks",
-                "target": "0"
-              },
-              {
-                "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=3",
-                "metrics": "0",
-                "text": "Videos",
-                "target": "0"
-              },
-              {
-                "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=4",
-                "metrics": "0",
-                "text": "Blogs",
-                "target": "0"
-              },
-              {
-                "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=5",
-                "metrics": "0",
-                "text": "Webinars",
-                "target": "0"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  }
+  "Menuitems": [
+    {
+      "href": "#",
+      "text": "Cloud",
+      "promoHref": "/content/emc/en-us/cloud/index.htm",
+      "promoSubTitle": "<p>Simplify, streamline and automate cloud operations with the industry's fastest hybrid cloud deployment.</p>\n",
+      "promoTitle": "Explore cloud",
+      "promoTarget": "0",
+      "ctaList": [
+        {
+          "href": "/content/emc/en-us/cloud/dell-technologies-cloud/benefits.htm",
+          "metrics": "0",
+          "text": "Why Choose Dell Technologies Cloud?",
+          "target": "0"
+        },
+        {
+          "href": "/content/emc/en-us/cloud/dell-technologies-cloud/use-cases.htm",
+          "metrics": "0",
+          "text": "Cloud Use Cases",
+          "target": "0"
+        },
+        {
+          "href": "/content/emc/en-us/cloud/dell-technologies-cloud/consumption-options.htm",
+          "metrics": "0",
+          "text": "Consumption Options",
+          "target": "0"
+        }
+      ],
+      "children": [
+        {
+          "text": "Platforms",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/platforms/dell-technologies-cloud-platform.htm",
+              "metrics": "0",
+              "text": "Dell Technologies Cloud Platform",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/platforms/data-center-as-a-service.htm",
+              "metrics": "0",
+              "text": "Data Center as-a-Service",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Cloud Services",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/cloud-services/storage/index.htm",
+              "metrics": "0",
+              "text": "Storage",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/cloud-services/data-protection/index.htm",
+              "metrics": "0",
+              "text": "Data Protection",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Solutions",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/solutions/validated-designs.htm",
+              "metrics": "0",
+              "text": "Validated Designs",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/solutions/vdi.htm",
+              "metrics": "0",
+              "text": "VDI",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Technology Services",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/technology-services/index.htm#tab0=0",
+              "metrics": "0",
+              "text": "Consulting",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/technology-services/index.htm#tab0=1",
+              "metrics": "0",
+              "text": "Managed Services",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/technology-services/index.htm#tab0=2",
+              "metrics": "0",
+              "text": "Education",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Partners",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/partners/partner-overview.htm",
+              "metrics": "0",
+              "text": "Partner Overview",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/partners/find-a-partner.htm",
+              "metrics": "0",
+              "text": "Why Work with a Dell Technologies Cloud Partner?",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/partners/become-a-partner.htm",
+              "metrics": "0",
+              "text": "Why Become a Dell Technologies Cloud Partner?",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Resources",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=0",
+              "metrics": "0",
+              "text": "Analyst Reports and White Papers",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=1",
+              "metrics": "0",
+              "text": "Solution Briefs and Data Sheets",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=2",
+              "metrics": "0",
+              "text": "Infographics and eBooks",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=3",
+              "metrics": "0",
+              "text": "Videos",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=4",
+              "metrics": "0",
+              "text": "Blogs",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=5",
+              "metrics": "0",
+              "text": "Webinars",
+              "target": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "href": "#",
+      "text": "Products",
+      "promoHref": "",
+      "promoSubTitle": "",
+      "promoTitle": "",
+      "promoTarget": "0",
+      "ctaList": [
+        {
+          "href": "/content/emc/en/glossary.htm",
+          "metrics": "0",
+          "text": "Glossary",
+          "target": "0"
+        },
+        {
+          "href": "https://community.emc.com/community/products",
+          "metrics": "0",
+          "text": "Product Community",
+          "target": "0"
+        },
+        {
+          "href": "/content/emc/en/products-solutions/trial-software-download/index.htm",
+          "metrics": "0",
+          "text": "Software Downloads",
+          "target": "0"
+        }
+      ],
+      "children": [
+        {
+          "text": "Converged Infrastructure",
+          "children": [
+            {
+              "href": "/content/emc/en/converged-infrastructure/converged-systems.htm",
+              "metrics": "0",
+              "text": "VxBlock",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en/converged-infrastructure/ready-stack/index.htm",
+              "metrics": "0",
+              "text": "Ready Stack",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en/converged-infrastructure/powerone.htm",
+              "metrics": "0",
+              "text": "PowerOne",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Data Protection",
+          "children": [
+            {
+              "href": "/content/emc/en/data-protection/index.htm#section-backup-solutions",
+              "metrics": "0",
+              "text": "Data Protection & Backup Solutions",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Data Storage",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/solutions/validated-designs.htm",
+              "metrics": "0",
+              "text": "Validated Designs",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/solutions/vdi.htm",
+              "metrics": "0",
+              "text": "VDI",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Hyperconverged Infrastructure",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/technology-services/index.htm#tab0=0",
+              "metrics": "0",
+              "text": "Consulting",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/technology-services/index.htm#tab0=1",
+              "metrics": "0",
+              "text": "Managed Services",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/technology-services/index.htm#tab0=2",
+              "metrics": "0",
+              "text": "Education",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Networking",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/partners/partner-overview.htm",
+              "metrics": "0",
+              "text": "Partner Overview",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/partners/find-a-partner.htm",
+              "metrics": "0",
+              "text": "Why Work with a Dell Technologies Cloud Partner?",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/partners/become-a-partner.htm",
+              "metrics": "0",
+              "text": "Why Become a Dell Technologies Cloud Partner?",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "PCs & Displays",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=0",
+              "metrics": "0",
+              "text": "Analyst Reports and White Papers",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=1",
+              "metrics": "0",
+              "text": "Solution Briefs and Data Sheets",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=2",
+              "metrics": "0",
+              "text": "Infographics and eBooks",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=3",
+              "metrics": "0",
+              "text": "Videos",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=4",
+              "metrics": "0",
+              "text": "Blogs",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=5",
+              "metrics": "0",
+              "text": "Webinars",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Servers",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=0",
+              "metrics": "0",
+              "text": "Analyst Reports and White Papers",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=1",
+              "metrics": "0",
+              "text": "Solution Briefs and Data Sheets",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=2",
+              "metrics": "0",
+              "text": "Infographics and eBooks",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=3",
+              "metrics": "0",
+              "text": "Videos",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=4",
+              "metrics": "0",
+              "text": "Blogs",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=5",
+              "metrics": "0",
+              "text": "Webinars",
+              "target": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "href": "#",
+      "text": "Solutions",
+      "promoHref": "/content/emc/en-us/cloud/index.htm",
+      "promoSubTitle": "<p>Simplify, streamline and automate cloud operations with the industry's fastest hybrid cloud deployment.</p>\n",
+      "promoTitle": "Explore cloud",
+      "promoTarget": "0",
+      "ctaList": [
+        {
+          "href": "/content/emc/en-us/cloud/dell-technologies-cloud/benefits.htm",
+          "metrics": "0",
+          "text": "Why Choose Dell Technologies Cloud?",
+          "target": "0"
+        },
+        {
+          "href": "/content/emc/en-us/cloud/dell-technologies-cloud/use-cases.htm",
+          "metrics": "0",
+          "text": "Cloud Use Cases",
+          "target": "0"
+        },
+        {
+          "href": "/content/emc/en-us/cloud/dell-technologies-cloud/consumption-options.htm",
+          "metrics": "0",
+          "text": "Consumption Options",
+          "target": "0"
+        }
+      ],
+      "children": [
+        {
+          "text": "Platforms",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/platforms/dell-technologies-cloud-platform.htm",
+              "metrics": "0",
+              "text": "Dell Technologies Cloud Platform",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/platforms/data-center-as-a-service.htm",
+              "metrics": "0",
+              "text": "Data Center as-a-Service",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Cloud Services",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/cloud-services/storage/index.htm",
+              "metrics": "0",
+              "text": "Storage",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/cloud-services/data-protection/index.htm",
+              "metrics": "0",
+              "text": "Data Protection",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Solutions",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/solutions/validated-designs.htm",
+              "metrics": "0",
+              "text": "Validated Designs",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/solutions/vdi.htm",
+              "metrics": "0",
+              "text": "VDI",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Technology Services",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/technology-services/index.htm#tab0=0",
+              "metrics": "0",
+              "text": "Consulting",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/technology-services/index.htm#tab0=1",
+              "metrics": "0",
+              "text": "Managed Services",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/technology-services/index.htm#tab0=2",
+              "metrics": "0",
+              "text": "Education",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Partners",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/partners/partner-overview.htm",
+              "metrics": "0",
+              "text": "Partner Overview",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/partners/find-a-partner.htm",
+              "metrics": "0",
+              "text": "Why Work with a Dell Technologies Cloud Partner?",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/partners/become-a-partner.htm",
+              "metrics": "0",
+              "text": "Why Become a Dell Technologies Cloud Partner?",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Resources",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=0",
+              "metrics": "0",
+              "text": "Analyst Reports and White Papers",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=1",
+              "metrics": "0",
+              "text": "Solution Briefs and Data Sheets",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=2",
+              "metrics": "0",
+              "text": "Infographics and eBooks",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=3",
+              "metrics": "0",
+              "text": "Videos",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=4",
+              "metrics": "0",
+              "text": "Blogs",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=5",
+              "metrics": "0",
+              "text": "Webinars",
+              "target": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "href": "#",
+      "text": "Services",
+      "promoHref": "/content/emc/en-us/cloud/index.htm",
+      "promoSubTitle": "<p>Simplify, streamline and automate cloud operations with the industry's fastest hybrid cloud deployment.</p>\n",
+      "promoTitle": "Explore cloud",
+      "promoTarget": "0",
+      "ctaList": [
+        {
+          "href": "/content/emc/en-us/cloud/dell-technologies-cloud/benefits.htm",
+          "metrics": "0",
+          "text": "Why Choose Dell Technologies Cloud?",
+          "target": "0"
+        },
+        {
+          "href": "/content/emc/en-us/cloud/dell-technologies-cloud/use-cases.htm",
+          "metrics": "0",
+          "text": "Cloud Use Cases",
+          "target": "0"
+        },
+        {
+          "href": "/content/emc/en-us/cloud/dell-technologies-cloud/consumption-options.htm",
+          "metrics": "0",
+          "text": "Consumption Options",
+          "target": "0"
+        }
+      ],
+      "children": [
+        {
+          "text": "Platforms",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/platforms/dell-technologies-cloud-platform.htm",
+              "metrics": "0",
+              "text": "Dell Technologies Cloud Platform",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/platforms/data-center-as-a-service.htm",
+              "metrics": "0",
+              "text": "Data Center as-a-Service",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Cloud Services",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/cloud-services/storage/index.htm",
+              "metrics": "0",
+              "text": "Storage",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/cloud-services/data-protection/index.htm",
+              "metrics": "0",
+              "text": "Data Protection",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Solutions",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/solutions/validated-designs.htm",
+              "metrics": "0",
+              "text": "Validated Designs",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/solutions/vdi.htm",
+              "metrics": "0",
+              "text": "VDI",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Technology Services",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/technology-services/index.htm#tab0=0",
+              "metrics": "0",
+              "text": "Consulting",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/technology-services/index.htm#tab0=1",
+              "metrics": "0",
+              "text": "Managed Services",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/technology-services/index.htm#tab0=2",
+              "metrics": "0",
+              "text": "Education",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Partners",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/partners/partner-overview.htm",
+              "metrics": "0",
+              "text": "Partner Overview",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/partners/find-a-partner.htm",
+              "metrics": "0",
+              "text": "Why Work with a Dell Technologies Cloud Partner?",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/partners/become-a-partner.htm",
+              "metrics": "0",
+              "text": "Why Become a Dell Technologies Cloud Partner?",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Resources",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=0",
+              "metrics": "0",
+              "text": "Analyst Reports and White Papers",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=1",
+              "metrics": "0",
+              "text": "Solution Briefs and Data Sheets",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=2",
+              "metrics": "0",
+              "text": "Infographics and eBooks",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=3",
+              "metrics": "0",
+              "text": "Videos",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=4",
+              "metrics": "0",
+              "text": "Blogs",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=5",
+              "metrics": "0",
+              "text": "Webinars",
+              "target": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "href": "#",
+      "text": "About Us",
+      "promoHref": "/content/emc/en-us/cloud/index.htm",
+      "promoSubTitle": "<p>Simplify, streamline and automate cloud operations with the industry's fastest hybrid cloud deployment.</p>\n",
+      "promoTitle": "Explore cloud",
+      "promoTarget": "0",
+      "ctaList": [
+        {
+          "href": "/content/emc/en-us/cloud/dell-technologies-cloud/benefits.htm",
+          "metrics": "0",
+          "text": "Why Choose Dell Technologies Cloud?",
+          "target": "0"
+        },
+        {
+          "href": "/content/emc/en-us/cloud/dell-technologies-cloud/use-cases.htm",
+          "metrics": "0",
+          "text": "Cloud Use Cases",
+          "target": "0"
+        },
+        {
+          "href": "/content/emc/en-us/cloud/dell-technologies-cloud/consumption-options.htm",
+          "metrics": "0",
+          "text": "Consumption Options",
+          "target": "0"
+        }
+      ],
+      "children": [
+        {
+          "text": "Platforms",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/platforms/dell-technologies-cloud-platform.htm",
+              "metrics": "0",
+              "text": "Dell Technologies Cloud Platform",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/platforms/data-center-as-a-service.htm",
+              "metrics": "0",
+              "text": "Data Center as-a-Service",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Cloud Services",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/cloud-services/storage/index.htm",
+              "metrics": "0",
+              "text": "Storage",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/cloud-services/data-protection/index.htm",
+              "metrics": "0",
+              "text": "Data Protection",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Solutions",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/solutions/validated-designs.htm",
+              "metrics": "0",
+              "text": "Validated Designs",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/solutions/vdi.htm",
+              "metrics": "0",
+              "text": "VDI",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Technology Services",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/technology-services/index.htm#tab0=0",
+              "metrics": "0",
+              "text": "Consulting",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/technology-services/index.htm#tab0=1",
+              "metrics": "0",
+              "text": "Managed Services",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/technology-services/index.htm#tab0=2",
+              "metrics": "0",
+              "text": "Education",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Partners",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/partners/partner-overview.htm",
+              "metrics": "0",
+              "text": "Partner Overview",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/partners/find-a-partner.htm",
+              "metrics": "0",
+              "text": "Why Work with a Dell Technologies Cloud Partner?",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/partners/become-a-partner.htm",
+              "metrics": "0",
+              "text": "Why Become a Dell Technologies Cloud Partner?",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Resources",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=0",
+              "metrics": "0",
+              "text": "Analyst Reports and White Papers",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=1",
+              "metrics": "0",
+              "text": "Solution Briefs and Data Sheets",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=2",
+              "metrics": "0",
+              "text": "Infographics and eBooks",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=3",
+              "metrics": "0",
+              "text": "Videos",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=4",
+              "metrics": "0",
+              "text": "Blogs",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=5",
+              "metrics": "0",
+              "text": "Webinars",
+              "target": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "href": "#",
+      "text": "Perspectives",
+      "promoHref": "/content/emc/en-us/cloud/index.htm",
+      "promoSubTitle": "<p>Simplify, streamline and automate cloud operations with the industry's fastest hybrid cloud deployment.</p>\n",
+      "promoTitle": "Explore cloud",
+      "promoTarget": "0",
+      "ctaList": [
+        {
+          "href": "/content/emc/en-us/cloud/dell-technologies-cloud/benefits.htm",
+          "metrics": "0",
+          "text": "Why Choose Dell Technologies Cloud?",
+          "target": "0"
+        },
+        {
+          "href": "/content/emc/en-us/cloud/dell-technologies-cloud/use-cases.htm",
+          "metrics": "0",
+          "text": "Cloud Use Cases",
+          "target": "0"
+        },
+        {
+          "href": "/content/emc/en-us/cloud/dell-technologies-cloud/consumption-options.htm",
+          "metrics": "0",
+          "text": "Consumption Options",
+          "target": "0"
+        }
+      ],
+      "children": [
+        {
+          "text": "Platforms",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/platforms/dell-technologies-cloud-platform.htm",
+              "metrics": "0",
+              "text": "Dell Technologies Cloud Platform",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/platforms/data-center-as-a-service.htm",
+              "metrics": "0",
+              "text": "Data Center as-a-Service",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Cloud Services",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/cloud-services/storage/index.htm",
+              "metrics": "0",
+              "text": "Storage",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/cloud-services/data-protection/index.htm",
+              "metrics": "0",
+              "text": "Data Protection",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Solutions",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/solutions/validated-designs.htm",
+              "metrics": "0",
+              "text": "Validated Designs",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/solutions/vdi.htm",
+              "metrics": "0",
+              "text": "VDI",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Technology Services",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/technology-services/index.htm#tab0=0",
+              "metrics": "0",
+              "text": "Consulting",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/technology-services/index.htm#tab0=1",
+              "metrics": "0",
+              "text": "Managed Services",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/technology-services/index.htm#tab0=2",
+              "metrics": "0",
+              "text": "Education",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Partners",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/partners/partner-overview.htm",
+              "metrics": "0",
+              "text": "Partner Overview",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/partners/find-a-partner.htm",
+              "metrics": "0",
+              "text": "Why Work with a Dell Technologies Cloud Partner?",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/partners/become-a-partner.htm",
+              "metrics": "0",
+              "text": "Why Become a Dell Technologies Cloud Partner?",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Resources",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=0",
+              "metrics": "0",
+              "text": "Analyst Reports and White Papers",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=1",
+              "metrics": "0",
+              "text": "Solution Briefs and Data Sheets",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=2",
+              "metrics": "0",
+              "text": "Infographics and eBooks",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=3",
+              "metrics": "0",
+              "text": "Videos",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=4",
+              "metrics": "0",
+              "text": "Blogs",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=5",
+              "metrics": "0",
+              "text": "Webinars",
+              "target": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "href": "#",
+      "text": "Support",
+      "promoHref": "/content/emc/en-us/cloud/index.htm",
+      "promoSubTitle": "<p>Simplify, streamline and automate cloud operations with the industry's fastest hybrid cloud deployment.</p>\n",
+      "promoTitle": "Explore cloud",
+      "promoTarget": "0",
+      "ctaList": [
+        {
+          "href": "/content/emc/en-us/cloud/dell-technologies-cloud/benefits.htm",
+          "metrics": "0",
+          "text": "Why Choose Dell Technologies Cloud?",
+          "target": "0"
+        },
+        {
+          "href": "/content/emc/en-us/cloud/dell-technologies-cloud/use-cases.htm",
+          "metrics": "0",
+          "text": "Cloud Use Cases",
+          "target": "0"
+        },
+        {
+          "href": "/content/emc/en-us/cloud/dell-technologies-cloud/consumption-options.htm",
+          "metrics": "0",
+          "text": "Consumption Options",
+          "target": "0"
+        }
+      ],
+      "children": [
+        {
+          "text": "Platforms",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/platforms/dell-technologies-cloud-platform.htm",
+              "metrics": "0",
+              "text": "Dell Technologies Cloud Platform",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/platforms/data-center-as-a-service.htm",
+              "metrics": "0",
+              "text": "Data Center as-a-Service",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Cloud Services",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/cloud-services/storage/index.htm",
+              "metrics": "0",
+              "text": "Storage",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/cloud-services/data-protection/index.htm",
+              "metrics": "0",
+              "text": "Data Protection",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Solutions",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/solutions/validated-designs.htm",
+              "metrics": "0",
+              "text": "Validated Designs",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/solutions/vdi.htm",
+              "metrics": "0",
+              "text": "VDI",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Technology Services",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/technology-services/index.htm#tab0=0",
+              "metrics": "0",
+              "text": "Consulting",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/technology-services/index.htm#tab0=1",
+              "metrics": "0",
+              "text": "Managed Services",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/technology-services/index.htm#tab0=2",
+              "metrics": "0",
+              "text": "Education",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Partners",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/partners/partner-overview.htm",
+              "metrics": "0",
+              "text": "Partner Overview",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/partners/find-a-partner.htm",
+              "metrics": "0",
+              "text": "Why Work with a Dell Technologies Cloud Partner?",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/partners/become-a-partner.htm",
+              "metrics": "0",
+              "text": "Why Become a Dell Technologies Cloud Partner?",
+              "target": "0"
+            }
+          ]
+        },
+        {
+          "text": "Resources",
+          "children": [
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=0",
+              "metrics": "0",
+              "text": "Analyst Reports and White Papers",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=1",
+              "metrics": "0",
+              "text": "Solution Briefs and Data Sheets",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=2",
+              "metrics": "0",
+              "text": "Infographics and eBooks",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=3",
+              "metrics": "0",
+              "text": "Videos",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=4",
+              "metrics": "0",
+              "text": "Blogs",
+              "target": "0"
+            },
+            {
+              "href": "/content/emc/en-us/cloud/resources/index.htm#tab0=5",
+              "metrics": "0",
+              "text": "Webinars",
+              "target": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
