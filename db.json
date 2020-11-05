@@ -1,6 +1,6 @@
 {
-  "header":
-	{
+"header":
+{
   "Menuitems": [
     {
       "titleUrl": "#",
@@ -35,18 +35,21 @@
 		  "titleUrl":"",
 		  "metrics":"",
 		  "titleTarget":"",
+		  "text":"",
           "children": [
             {
               "titleUrl": "/content/emc/en-us/cloud/platforms/dell-technologies-cloud-platform.htm",
               "metrics": "0",
               "title": "Dell Technologies Cloud Platform",
-              "titleTarget": "0"
+              "titleTarget": "0",
+			  "text":""
             },
             {
               "titleUrl": "/content/emc/en-us/cloud/platforms/data-center-as-a-service.htm",
               "metrics": "0",
               "title": "Data Center as-a-Service",
-              "titleTarget": "0"
+              "titleTarget": "0",
+			  "text":""
             }
           ]
         },
@@ -55,18 +58,21 @@
 		    "titleUrl":"",
 		  "metrics":"",
 		  "titleTarget":"",
+		  "text":"",
           "children": [
             {
               "titleUrl": "/content/emc/en-us/cloud/cloud-services/storage/index.htm",
               "metrics": "0",
               "title": "Storage",
-              "titleTarget": "0"
+              "titleTarget": "0",
+			  "text":""
             },
             {
               "titleUrl": "/content/emc/en-us/cloud/cloud-services/data-protection/index.htm",
               "metrics": "0",
               "title": "Data Protection",
-              "titleTarget": "0"
+              "titleTarget": "0",
+			  "text":""
             }
           ]
         },
@@ -75,18 +81,21 @@
 		    "titleUrl":"",
 		  "metrics":"",
 		  "titleTarget":"",
+		  "text":"",
           "children": [
             {
               "titleUrl": "/content/emc/en-us/cloud/solutions/validated-designs.htm",
               "metrics": "0",
               "title": "Validated Designs",
-              "titleTarget": "0"
+              "titleTarget": "0",
+			  "text":""
             },
             {
               "titleUrl": "/content/emc/en-us/cloud/solutions/vdi.htm",
               "metrics": "0",
               "title": "VDI",
-              "titleTarget": "0"
+              "titleTarget": "0",
+			  "text":""
             }
           ]
         },
@@ -95,24 +104,28 @@
 		    "titleUrl":"",
 		  "metrics":"",
 		  "titleTarget":"",
+		  "text":"",
           "children": [
             {
               "titleUrl": "/content/emc/en-us/cloud/technology-services/index.htm#tab0=0",
               "metrics": "0",
               "title": "Consulting",
-              "titleTarget": "0"
+              "titleTarget": "0",
+			  "text":""
             },
             {
               "titleUrl": "/content/emc/en-us/cloud/technology-services/index.htm#tab0=1",
               "metrics": "0",
               "title": "Managed Services",
-              "titleTarget": "0"
+              "titleTarget": "0",
+			  "text":""
             },
             {
               "titleUrl": "/content/emc/en-us/cloud/technology-services/index.htm#tab0=2",
               "metrics": "0",
               "title": "Education",
-              "titleTarget": "0"
+              "titleTarget": "0",
+			  "text":""
             }
           ]
         },
@@ -121,24 +134,28 @@
 		    "titleUrl":"",
 		  "metrics":"",
 		  "titleTarget":"",
+		  "text":"",
           "children": [
             {
               "titleUrl": "/content/emc/en-us/cloud/partners/partner-overview.htm",
               "metrics": "0",
               "title": "Partner Overview",
-              "titleTarget": "0"
+              "titleTarget": "0",
+			  "text":""
             },
             {
               "titleUrl": "/content/emc/en-us/cloud/partners/find-a-partner.htm",
               "metrics": "0",
               "title": "Why Work with a Dell Technologies Cloud Partner?",
-              "titleTarget": "0"
+              "titleTarget": "0",
+			  "text":""
             },
             {
               "titleUrl": "/content/emc/en-us/cloud/partners/become-a-partner.htm",
               "metrics": "0",
               "title": "Why Become a Dell Technologies Cloud Partner?",
-              "titleTarget": "0"
+              "titleTarget": "0",
+			  "text":""
             }
           ]
         },
@@ -147,42 +164,49 @@
 		    "titleUrl":"",
 		  "metrics":"",
 		  "titleTarget":"",
+		  "text":"",
           "children": [
             {
               "titleUrl": "/content/emc/en-us/cloud/resources/index.htm#tab0=0",
               "metrics": "0",
               "title": "Analyst Reports and White Papers",
-              "titleTarget": "0"
+              "titleTarget": "0",
+			  "text":""
             },
             {
               "titleUrl": "/content/emc/en-us/cloud/resources/index.htm#tab0=1",
               "metrics": "0",
               "title": "Solution Briefs and Data Sheets",
-              "titleTarget": "0"
+              "titleTarget": "0",
+			  "text":""
             },
             {
               "titleUrl": "/content/emc/en-us/cloud/resources/index.htm#tab0=2",
               "metrics": "0",
               "title": "Infographics and eBooks",
-              "titleTarget": "0"
+              "titleTarget": "0",
+			  "text":""
             },
             {
               "titleUrl": "/content/emc/en-us/cloud/resources/index.htm#tab0=3",
               "metrics": "0",
               "title": "Videos",
-              "titleTarget": "0"
+              "titleTarget": "0",
+			  "text":""
             },
             {
               "titleUrl": "/content/emc/en-us/cloud/resources/index.htm#tab0=4",
               "metrics": "0",
               "title": "Blogs",
-              "titleTarget": "0"
+              "titleTarget": "0",
+			  "text":"",
             },
             {
               "titleUrl": "/content/emc/en-us/cloud/resources/index.htm#tab0=5",
               "metrics": "0",
               "title": "Webinars",
-              "titleTarget": "0"
+              "titleTarget": "0",
+			  "text":""
             }
           ]
         }
