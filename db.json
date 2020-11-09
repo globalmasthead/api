@@ -2,7 +2,6 @@
 	"Menuitems": [{
 		"promoText": "<p>Simplify, streamline and automate Cloud operations with the industry's fastest hybrid Cloud deployment.<\/p>\n",
 		"children": [{
-			"jcr:primaryType": "nt:unstructured",
 			"children": [{
 				"metricId": "0",
 				"jcr:primaryType": "nt:unstructured",
