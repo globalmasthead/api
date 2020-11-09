@@ -1,1111 +1,216 @@
 {
-	"Menuitems": [{
-		"promoText": "<p>Simplify, streamline and automate Cloud operations with the industry's fastest hybrid Cloud deployment.<\/p>\n",
-		"children": [{
-			"children": [{
-				"metricId": "0",
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Dell Technologies Cloud Platform",
-				"titleUrlTarget": "0",
-				"titleUrl": "/content/emc/en/cloud/platforms/dell-technologies-cloud-platform.htm"
-			}, {
-				"metricId": "0",
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Data Center as-a-Service",
-				"titleUrlTarget": "0",
-				"titleUrl": "/content/emc/en/cloud/platforms/data-center-as-a-service.htm"
-			}],
-			"title": "Platforms"
-		}, {
-			"jcr:primaryType": "nt:unstructured",
-			"children": [{
-				"metricId": "0",
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Storage",
-				"titleUrlTarget": "0",
-				"titleUrl": "/content/emc/en/cloud/cloud-services/storage/index.htm"
-			}, {
-				"metricId": "0",
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Data Protection",
-				"titleUrlTarget": "0",
-				"titleUrl": "/content/emc/en/cloud/cloud-services/data-protection/index.htm"
-			}],
-			"title": " Cloud Services"
-		}, {
-			"jcr:primaryType": "nt:unstructured",
-			"children": [{
-				"metricId": "0",
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Validated Designs",
-				"titleUrlTarget": "0",
-				"titleUrl": "/content/emc/en/cloud/solutions/validated-designs.htm"
-			}, {
-				"metricId": "0",
-				"jcr:primaryType": "nt:unstructured",
-				"title": "VDI",
-				"titleUrlTarget": "0",
-				"titleUrl": "/content/emc/en/cloud/solutions/vdi.htm"
-			}],
-			"title": "Solutions"
-		}, {
-			"jcr:primaryType": "nt:unstructured",
-			"children": [{
-				"metricId": "0",
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Consulting",
-				"titleUrlTarget": "0",
-				"titleUrl": "/content/emc/en/cloud/technology-services/index.htm#tab0=0"
-			}, {
-				"metricId": "0",
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Managed Services",
-				"titleUrlTarget": "0",
-				"titleUrl": "/content/emc/en/cloud/technology-services/index.htm#tab0=1"
-			}, {
-				"metricId": "0",
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Education",
-				"titleUrlTarget": "0",
-				"titleUrl": "/content/emc/en/cloud/technology-services/index.htm#tab0=2"
-			}],
-			"title": "Technology Services"
-		}, {
-			"jcr:primaryType": "nt:unstructured",
-			"children": [{
-				"metricId": "0",
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Partner Overview",
-				"titleUrlTarget": "0",
-				"titleUrl": "/content/emc/en/cloud/partners/partner-overview.htm"
-			}, {
-				"metricId": "0",
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Why Work with a Dell Technologies Cloud Partner?",
-				"titleUrlTarget": "0",
-				"titleUrl": "/content/emc/en/cloud/partners/find-a-partner.htm"
-			}, {
-				"metricId": "0",
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Why Become a Dell Technologies Cloud Partner?",
-				"titleUrlTarget": "0",
-				"titleUrl": "/content/emc/en/cloud/partners/become-a-partner.htm"
-			}],
-			"title": "Partners"
-		}, {
-			"jcr:primaryType": "nt:unstructured",
-			"children": [{
-				"metricId": "0",
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Analyst Reports and White Papers",
-				"titleUrlTarget": "0",
-				"titleUrl": "/content/emc/en/cloud/resources/index.htm#tab0=0"
-			}, {
-				"metricId": "0",
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Solution Briefs and Data Sheets",
-				"titleUrlTarget": "0",
-				"titleUrl": "/content/emc/en/cloud/resources/index.htm#tab0=1"
-			}, {
-				"metricId": "0",
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Infographics and eBooks",
-				"titleUrlTarget": "0",
-				"titleUrl": "/content/emc/en/cloud/resources/index.htm#tab0=2"
-			}, {
-				"metricId": "0",
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Videos",
-				"titleUrlTarget": "0",
-				"titleUrl": "/content/emc/en/cloud/resources/index.htm#tab0=3"
-			}, {
-				"metricId": "0",
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Blogs",
-				"titleUrlTarget": "0",
-				"titleUrl": "/content/emc/en/cloud/resources/index.htm#tab0=4"
-			}],
-			"title": "Resources"
-		}],
-		"promoTarget": "0",
-		"promoTitle": "Explore Cloud",
-		"childComponent": "theme-ghf/components/content/navigation-item-list",
-		"ctaList": [{
-			"metricId": "0",
-			"jcr:primaryType": "nt:unstructured",
-			"title": "Why Choose Dell Technologies Cloud?",
-			"titleUrlTarget": "0",
-			"titleUrl": "/content/emc/en/cloud/dell-technologies-cloud/benefits.htm"
-		}, {
-			"metricId": "0",
-			"jcr:primaryType": "nt:unstructured",
-			"title": "Cloud Use Cases",
-			"titleUrlTarget": "0",
-			"titleUrl": "/content/emc/en/cloud/dell-technologies-cloud/use-cases.htm"
-		}, {
-			"metricId": "0",
-			"jcr:primaryType": "nt:unstructured",
-			"title": "Consumption Options",
-			"titleUrlTarget": "0",
-			"titleUrl": "/content/emc/en/cloud/dell-technologies-cloud/consumption-options.htm"
-		}],
-		"jcr:primaryType": "nt:unstructured",
-		"promoTitleUrl": "/content/emc/en/cloud/index.htm",
-		"title": "Cloud",
-		"titleUrl": "#"
-	}, {
-		"children": [{
-			"children": [{
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Simplify IT with a turnkey engineered system experience and enable a VMware cloud model.<\/p>\n",
-				"title": "VxBlock",
-				"titleUrl": "/content/emc/en/converged-infrastructure/converged-systems.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Validated designs unlock converged infrastructure benefits with flexibility and choice.<\/p>\n",
-				"title": "Ready Stack",
-				"titleUrl": "/content/emc/en/converged-infrastructure/ready-stack/index.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>All-in-one system that brings together the Dell EMC power portfolio into one streamlined system<\/p>\n",
-				"title": "PowerOne",
-				"titleUrl": "/content/emc/en/converged-infrastructure/powerone.htm"
-			}],
-			"childComponent": "theme-ghf/components/content/navigation-item-list",
-			"ctaList": [{
-				"metricId": "0",
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Explore Converged Infrastructure",
-				"titleUrl": "/content/emc/en/converged-infrastructure/index.htm"
-			}],
-			"jcr:primaryType": "nt:unstructured",
-			"title": "Converged Infrastructure"
-		}, {
-			"children": [{
-				"jcr:primaryType": "nt:unstructured",
-				"children": [{
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "Cloud",
-					"titleUrl": "/content/emc/en/data-protection/cloud.htm"
-				}, {
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "VMware",
-					"titleUrl": "/content/emc/en/data-protection/protection-vmware.htm"
-				}, {
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "Cyber Recovery",
-					"titleUrl": "/content/emc/en/solutions/data-protection/isolated-recovery-solution.htm"
-				}, {
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "Data Protection for Service Providers",
-					"titleUrl": "/content/emc/en/data-protection/vcloud-director/index.htm"
-				}],
-				"title": "Data Protection & Backup Solutions",
-				"titleUrl": "/content/emc/en/data-protection/index.htm#section-backup-solutions"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"children": [{
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "PowerProtect DD Series",
-					"titleUrl": "/content/emc/en/data-protection/powerprotect-dd-series.htm"
-				}, {
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "PowerProtect X Series",
-					"titleUrl": "/content/emc/en/data-protection/powerprotect-appliances/index.htm"
-				}, {
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "Integrated Data Protection Appliances",
-					"titleUrl": "/content/emc/en/data-protection/integrated-data-protection-appliance.htm"
-				}],
-				"title": "Data Protection & Backup Appliances",
-				"titleUrl": "/content/emc/en/data-protection/index.htm#data-domain"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"children": [{
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "PowerProtect Data Manager",
-					"titleUrl": "/content/emc/en/data-protection/powerprotect-data-manager.htm"
-				}, {
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "Data Protection Suite",
-					"titleUrl": "/content/emc/en/data-protection/data-protection-suite/index.htm"
-				}],
-				"title": "Data Protection & Backup Software",
-				"titleUrl": "/content/emc/en/data-protection/index.htm#data-protection-suite"
-			}],
-			"childComponent": "theme-ghf/components/content/navigation-item-list",
-			"ctaList": [{
-				"metricId": "0",
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Explore Data Protection",
-				"titleUrl": "/content/emc/en/data-protection/index.htm"
-			}],
-			"jcr:primaryType": "nt:unstructured",
-			"title": "Data Protection"
-		}, {
-			"children": [{
-				"jcr:primaryType": "nt:unstructured",
-				"children": [{
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "PowerMax",
-					"titleUrlTarget": "0",
-					"titleUrl": "/content/emc/en/storage/powermax.htm"
-				}, {
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "XtremIO",
-					"titleUrlTarget": "0",
-					"titleUrl": "/content/emc/en/storage/xtremio-all-flash.htm"
-				}, {
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "PowerStore",
-					"titleUrl": "/content/emc/en/storage/powerstore-storage-appliance.htm"
-				}, {
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "Dell EMC Unity XT",
-					"titleUrlTarget": "0",
-					"titleUrl": "/content/emc/en/storage/unity.htm"
-				}, {
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "SC Series",
-					"titleUrlTarget": "0",
-					"titleUrl": "/content/emc/en/storage/sc-series.htm"
-				}, {
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "PowerVault",
-					"titleUrlTarget": "0",
-					"titleUrl": "/content/emc/en/storage/powervaultme4.htm"
-				}, {
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "VMAX All Flash",
-					"titleUrlTarget": "0",
-					"titleUrl": "/content/emc/en/storage/vmax-all-flash.htm"
-				}],
-				"title": "Primary Storage",
-				"titleUrlTarget": "0",
-				"titleUrl": "/content/emc/en/storage/data-storage.htm#all-flash"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"children": [{
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "Isilon",
-					"titleUrlTarget": "0",
-					"titleUrl": "/content/emc/en/storage/isilon/index.htm"
-				}, {
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "Dell EMC ECS",
-					"titleUrlTarget": "0",
-					"titleUrl": "/content/emc/en/storage/ecs/index.htm"
-				}, {
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "Streaming Data Platform ",
-					"titleUrlTarget": "0",
-					"titleUrl": "/content/emc/en/storage/streaming-data-platform.htm"
-				}],
-				"title": "Unstructured Data Storage",
-				"titleUrlTarget": "0",
-				"titleUrl": "/content/emc/en/storage/data-storage.htm#section=nas-and-object-storage"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"children": [{
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "CloudIQ",
-					"titleUrlTarget": "0",
-					"titleUrl": "/content/emc/en/storage/cloudiq.htm"
-				}, {
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "ClarityNow",
-					"titleUrlTarget": "0",
-					"titleUrl": "/content/emc/en/storage/data-storage/network-attached-storage/claritynow.htm"
-				}, {
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "Connectrix SAN",
-					"titleUrlTarget": "0",
-					"titleUrl": "/content/emc/en/storage/connectrix/connectrix.htm"
-				}, {
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "VPLEX",
-					"titleUrlTarget": "0",
-					"titleUrl": "/content/emc/en/storage/vplex.htm"
-				}, {
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "PowerPath",
-					"titleUrlTarget": "0",
-					"titleUrl": "/content/emc/en/storage/powerpath-intelligent-multipathing-software.htm"
-				}, {
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "Storage Resource Manager (SRM)",
-					"titleUrlTarget": "0",
-					"titleUrl": "/content/emc/en/storage/storage-resource-manager.htm"
-				}, {
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "AppSync",
-					"titleUrlTarget": "0",
-					"titleUrl": "/content/emc/en/storage/appsync-copy-data-management-software.htm"
-				}, {
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "Storage Automation & Developer Resources",
-					"titleUrlTarget": "0",
-					"titleUrl": "/content/emc/en/storage/storage-automation-and-developer-resources/index.htm"
-				}],
-				"title": "Data Storage Essentials ",
-				"titleUrlTarget": "0",
-				"titleUrl": "/content/emc/en/storage/data-storage.htm#section=data-storage-essentials"
-			}],
-			"promoTarget": "0",
-			"childComponent": "theme-ghf/components/content/navigation-item-list",
-			"ctaList": [{
-				"metricId": "0",
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Explore Data Storage",
-				"titleUrlTarget": "0",
-				"titleUrl": "/content/emc/en/storage/data-storage.htm"
-			}],
-			"jcr:primaryType": "nt:unstructured",
-			"title": "Data Storage"
-		}, {
-			"children": [{
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Scale without limits and simplify the path to hybrid cloud with this turnkey HCI platform.<\/p>\n",
-				"title": "VxRail",
-				"titleUrl": "/content/emc/en/converged-infrastructure/vxrail/index.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Start small and grow in flexible, discrete increments with VxFlex integrated systems.<\/p>\n",
-				"title": "VxFlex",
-				"titleUrl": "/content/emc/en/hyperconverged-infrastructure/vxflex.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Accelerate hybrid cloud adoption across Azure Public, on-premise and intelligent edge.<\/p>\n",
-				"title": "Dell EMC Integrated System for Microsoft Azure Stack Hub",
-				"titleUrl": "/content/emc/en/solutions/cloud/microsoft-azure-stack.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>HCI built on PowerEdge servers with VMware vSAN for software-defined storage.<\/p>\n",
-				"title": "vSAN Ready Nodes",
-				"titleUrl": "/content/emc/en/converged-infrastructure/hyper-converged-infrastructure/vsan-ready-nodes.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Gain massive scalability and no-compromise resilience with validated building blocks.<\/p>\n",
-				"title": "VxFlex Ready Nodes",
-				"titleUrl": "/content/emc/en/solutions/software-defined/vxflex-ready-nodes.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Invest in modern IT to take advantage of new opportunities, reduce cost and increase uptime.<\/p>\n",
-				"title": "Dell EMC Solutions for Microsoft Azure Stack HCI",
-				"titleUrl": "/content/emc/en/solutions/software-defined/microsoft-wssd.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Accelerating the journey to a VMware software-defined data center and hybrid cloud<\/p>\n",
-				"title": "VMware Cloud Foundation on VxRail",
-				"titleUrl": "/content/emc/en/solutions/cloud/vmware-cloud-foundation-on-vxrail.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Kubernetes infrastructure that moves at the speed of developers.<\/p>\n",
-				"title": "HCI for Kubernetes",
-				"titleUrl": "/content/emc/en/cloud/hybrid-cloud-computing/hci-for-kubernetes.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Appliances integrate PowerEdge servers, Nutanix software, and hypervisor choice.<\/p>\n",
-				"title": "XC Family",
-				"titleUrl": "/content/emc/en/converged-infrastructure/xcseries/index.htm"
-			}],
-			"childComponent": "theme-ghf/components/content/navigation-item-list",
-			"ctaList": [{
-				"metricId": "0",
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Explore Hyperconverged Infrastructure",
-				"titleUrl": "/content/emc/en/converged-infrastructure/hyper-converged-infrastructure.htm"
-			}],
-			"jcr:primaryType": "nt:unstructured",
-			"title": "Hyperconverged Infrastructure"
-		}, {
-			"children": [{
-				"jcr:primaryType": "nt:unstructured",
-				"children": [{
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "PowerSwitch Data Center Switches",
-					"titleUrl": "/content/emc/en/networking/data-center-switches/index.htm"
-				}, {
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "PowerEdge Modular System Switches",
-					"titleUrl": "/content/emc/en/networking/modular-system-switches/index.htm"
-				}, {
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "PowerSwitch Campus/Branch Switches",
-					"titleUrl": "/content/emc/en/networking/campus-branch-switches/index.htm"
-				}],
-				"title": "Ethernet Switches",
-				"titleUrl": "/content/emc/en/networking/index.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"children": [{
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "SD-WAN Solution",
-					"titleUrlTarget": "0",
-					"titleUrl": "/content/emc/en/networking/sd-wan-solution/index.htm"
-				}, {
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "Virtual Edge Platform ",
-					"titleUrlTarget": "0",
-					"titleUrl": "/content/emc/en/networking/virtual-edge-platforms/index.htm"
-				}],
-				"title": "Edge Platforms",
-				"titleUrl": "/content/emc/en/networking/index.htm#section=access-platforms"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"children": [{
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "Ruckus",
-					"titleUrl": "/content/emc/en/networking/wireless-networking/index.htm"
-				}],
-				"title": "Wireless Networking",
-				"titleUrl": "/content/emc/en/networking/index.htm#wireless-networking"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"children": [{
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "OS10 Enterprise Edition",
-					"titleUrlTarget": "1",
-					"titleUrl": "https://www.dell.com/en-us/work/shop/networking/sc/networking-products/network-management"
-				}, {
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "OS10 Open Edition",
-					"titleUrlTarget": "1",
-					"titleUrl": "https://www.dell.com/en-us/work/shop/povw/open-platform-software"
-				}, {
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "SmartFabric Director",
-					"titleUrlTarget": "1",
-					"titleUrl": "https://www.dell.com/en-us/work/shop/povw/smart-fabric-director"
-				}],
-				"title": "System Software",
-				"titleUrl": "/content/emc/en/networking/index.htm#section=system-software"
-			}],
-			"childComponent": "theme-ghf/components/content/navigation-item-list",
-			"ctaList": [{
-				"metricId": "0",
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Explore Networking",
-				"titleUrl": "/content/emc/en/networking/index.htm"
-			}],
-			"jcr:primaryType": "nt:unstructured",
-			"title": "Networking"
-		}, {
-			"children": [{
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Dell Latitude Notebooks & 2-in-1s",
-				"titleUrl": "/content/emc/en/latitude/index.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Dell OptiPlex Desktops & All-in-Ones",
-				"titleUrl": "/content/emc/en/optiplex/index.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Dell Precision Workstations",
-				"titleUrl": "/content/emc/en/precision/index.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Dell Wyse Thin Clients & Software",
-				"titleUrl": "/content/emc/en/wyse/index.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Dell Displays",
-				"titleUrl": "/content/emc/en/monitors-for-work/index.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Dell Docking Solutions",
-				"titleUrl": "/content/emc/en/workforce-solutions/delldockingsolutions.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Latitude Rugged PCs",
-				"titleUrl": "/content/emc/en/rugged/index.htm"
-			}],
-			"childComponent": "theme-ghf/components/content/navigation-item-list",
-			"ctaList": [{
-				"metricId": "0",
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Explore PCs and Displays",
-				"titleUrl": "/content/emc/en/workforce-transformation/index.htm"
-			}],
-			"jcr:primaryType": "nt:unstructured",
-			"title": "PCs & Displays"
-		}, {
-			"children": [{
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Rack Servers",
-				"titleUrl": "/content/emc/en/servers/poweredge-rack-servers.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Tower Servers",
-				"titleUrl": "/content/emc/en/servers/poweredge-tower-servers.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Industrial Grade Servers",
-				"titleUrl": "/content/emc/en/servers/index.htm#section=data-center-infrastructure"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"children": [{
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "PowerEdge MX",
-					"titleUrl": "/content/emc/en/servers/modular-infrastructure/poweredge-mx/index.htm"
-				}, {
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "PowerEdge FX Series",
-					"titleUrl": "/content/emc/en/servers/modular-infrastructure/poweredge-fx/index.htm"
-				}, {
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "PowerEdge VRTX",
-					"titleUrl": "/content/emc/en/servers/modular-infrastructure/poweredge-vrtx/index.htm"
-				}],
-				"title": "Modular Infrastructure",
-				"titleUrl": "/content/emc/en/servers/modular-infrastructure/index.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"children": [{
-					"metricId": "0",
-					"jcr:primaryType": "nt:unstructured",
-					"title": "OpenManage",
-					"titleUrl": "/content/emc/en/solutions/openmanage/index.htm"
-				}],
-				"title": "System Management Software",
-				"titleUrl": "/content/emc/en/servers/index.htm#section=system-management-software"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Ready Nodes",
-				"titleUrl": "/content/emc/en/servers/index.htm#ready-nodes"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Specialty Servers",
-				"titleUrl": "/content/emc/en/servers/specialty-servers/poweredge-xe-servers.htm"
-			}],
-			"childComponent": "theme-ghf/components/content/navigation-item-list",
-			"ctaList": [{
-				"metricId": "0",
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Explore Servers",
-				"titleUrl": "/content/emc/en/servers/index.htm"
-			}],
-			"jcr:primaryType": "nt:unstructured",
-			"title": "Servers"
-		}],
-		"childComponent": "theme-ghf/components/layout/navigation-item-group",
-		"imageBackground": "#",
-		"ctaList": [{
-			"metricId": "0",
-			"jcr:primaryType": "nt:unstructured",
-			"title": "Glossary",
-			"titleUrlTarget": "1",
-			"titleUrl": "/content/emc/en/glossary.htm"
-		}, {
-			"metricId": "0",
-			"jcr:primaryType": "nt:unstructured",
-			"title": "Product Community",
-			"titleUrlTarget": "1",
-			"titleUrl": "https://community.emc.com/community/products"
-		}, {
-			"metricId": "0",
-			"jcr:primaryType": "nt:unstructured",
-			"title": "Software Downloads",
-			"titleUrlTarget": "1",
-			"titleUrl": "/content/emc/en/products-solutions/trial-software-download/index.htm"
-		}],
-		"jcr:primaryType": "nt:unstructured",
-		"title": "Products",
-		"titleUrl": "#"
-	}, {
-		"children": [{
-			"children": [{
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Modernize IT infrastructure to drive innovation and achieve real business outcomes.<\/p>\n",
-				"title": "Modernize IT",
-				"titleUrl": "/content/emc/en/it-transformation/index.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Unlock the value of your data and be more likely to make faster data-driven decisions.<\/p>\n",
-				"title": "Data Capital",
-				"titleUrl": "/content/emc/en/data-capital/index.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Realize the power of AI with modern infrastructure and AI-enabled IT solutions.<\/p>\n",
-				"title": "Artificial Intelligence",
-				"titleUrl": "/content/emc/en/solutions/artificial-intelligence/index.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Harness the value of your data with integrated, validated tools for big data analytics.<\/p>\n",
-				"title": "Data Analytics",
-				"titleUrl": "/content/emc/en/solutions/data-analytics/index.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Make innovation real with HPC solutions and modern IT infrastructure.<\/p>\n",
-				"title": "High Performance Computing",
-				"titleUrl": "/content/emc/en/solutions/high-performance-computing/index.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Simplify IT for SAP landscapes including adoption of S/4HANA and SAP Leonardo.<\/p>\n",
-				"title": "SAP",
-				"titleUrl": "/content/emc/en/solutions/business-applications/sap/index.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Drive smarter decisions with IoT solutions from the Dell Technologies portfolio.<\/p>\n",
-				"title": "Edge and Internet of Things",
-				"titleUrl": "/content/emc/en/solutions/internet-of-things/index.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Simplify deployment of SQL environments and accelerate time-to-value for better service delivery and business innovation.<\/p>\n",
-				"title": "Microsoft SQL",
-				"titleUrl": "/content/emc/en/solutions/sql/index.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Solutions to deliver consistent cloud operations and a modern end-user experience across core, cloud and edge.<\/p>\n",
-				"title": "VMware",
-				"titleUrl": "/content/emc/en/solutions/vmware/index.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Create new value with an IT infrastructure optimized for your critical business workloads.<\/p>\n",
-				"title": "Enterprise Workloads",
-				"titleUrl": "/content/emc/en/solutions/enterprise-workloads/index.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Run applications in the intelligent enterprise with accelerated deployments and reduced risk using validated designs.<\/p>\n",
-				"title": "Ready Solutions",
-				"titleUrl": "/content/emc/en/solutions/ready/index.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Achieve data-driven business outcomes with a modern foundation for Oracle applications<\/p>\n",
-				"title": "Oracle",
-				"titleUrl": "/content/emc/en/solutions/oracle/index.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>From the edge to the core to the cloud, Dell EMC and Microsoft solutions are the proven choice for your modern data center.<\/p>\n<p>&nbsp;<\/p>\n<p>&nbsp;<\/p>\n",
-				"title": "Microsoft",
-				"titleUrl": "/content/emc/en/solutions/microsoft/index.htm"
-			}],
-			"childComponent": "theme-ghf/components/content/navigation-item-list",
-			"jcr:primaryType": "nt:unstructured",
-			"title": "Infrastructure Solutions"
-		}, {
-			"children": [{
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Empower your employees to work from home.&nbsp;<\/p>\n",
-				"title": "Implementing Remote Workforce",
-				"titleUrl": "/content/emc/en/connectedworkplace/index.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Deploy, secure, manage and support your devices from the cloud.<\/p>\n",
-				"title": "Unified Workspace",
-				"titleUrl": "/content/emc/en/unified-workspace/index.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Start up, connect and charge at full speed with Dell laptops, desktops and displays.<\/p>\n",
-				"title": "Faster, Smarter Experiences",
-				"titleUrl": "/content/emc/en/work-at-full-speed/index.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Protect your competitive advantage while freeing up time with built-in security.<\/p>\n",
-				"title": "Endpoint Security",
-				"titleUrl": "/content/emc/en/endpointsecurity/data-security.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Solve complex problems with AI technologies powered by Dell Precision workstations.<\/p>\n",
-				"title": "Artificial Intelligence - Workstations",
-				"titleUrl": "/content/emc/en/ai-technologies/index.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Enable digital workspaces to keep users productive and your business secure.<\/p>\n",
-				"title": "Virtual Desktop Infrastructure",
-				"titleUrl": "/content/emc/en/solutions/vdi/index-it.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>See how customers are using professional grade products to get the job done.<\/p>\n",
-				"title": "Professional Grade Tools",
-				"titleUrl": "/content/emc/en/work-at-full-speed/pro-grade-tools.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Powering today\u2019s remote workforce.<\/p>\n",
-				"title": "The Remote Worker",
-				"titleUrl": "/content/emc/en/workforce-solutions/remote-worker.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Dell Optimizer is the only built-in, AI-based optimization software for business that learns and responds to the way you work.&nbsp;<\/p>\n",
-				"title": "Optimizer Intelligence",
-				"titleUrl": "/content/emc/en/work-at-full-speed/optimizer.htm"
-			}],
-			"childComponent": "theme-ghf/components/content/navigation-item-list",
-			"jcr:primaryType": "nt:unstructured",
-			"title": "Workforce Solutions"
-		}, {
-			"children": [{
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Digital Cities",
-				"titleUrl": "/content/emc/en/industry/digital-cities/index.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Federal Government",
-				"titleUrl": "/content/emc/en/industry/federal/federal-government-it.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Healthcare & Life Sciences",
-				"titleUrl": "/content/emc/en/industry/healthcare-it.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Higher Education",
-				"titleUrl": "/content/emc/en/industry/higher-education/index.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"title": "K-12 Education",
-				"titleUrl": "/content/emc/en/industry/education/index.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Retail",
-				"titleUrl": "/content/emc/en/industry/retail-it/index.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Service Provider",
-				"titleUrl": "/content/emc/en/service-providers/index.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"title": "State & Local Government",
-				"titleUrl": "/content/emc/en/industry/state-local-government/index.htm"
-			}],
-			"childComponent": "theme-ghf/components/content/navigation-item-list",
-			"jcr:primaryType": "nt:unstructured",
-			"title": "Industry Solutions"
-		}, {
-			"children": [{
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Build on top OEM solutions that we modify, configure, test and optimize to fit your exact workload, scale and deployment needs. Get the best of Dell Technologies, engineered for your application.<\/p>\n",
-				"title": "Innovate faster. Get to market with solutions from our portfolio."
-			}],
-			"childComponent": "theme-ghf/components/content/navigation-item-list",
-			"ctaList": [{
-				"metricId": "0",
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Explore OEM Solutions",
-				"titleUrl": "/content/emc/en/oem/index2.htm"
-			}],
-			"jcr:primaryType": "nt:unstructured",
-			"title": "OEM | Embedded & Edge Solutions"
-		}, {
-			"children": [{
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Explore Dell Technologies products including PCs and accessories, infrastructure and security products that scale to help your midmarket business grow.<\/p>\n",
-				"title": "Find transformative technologies to turn your plans into results.",
-				"titleUrlTarget": "0",
-				"titleUrl": "/content/emc/en/midmarket-solutions/index.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>With leading integration, automation and deployment capabilities, every server&nbsp; is built to protect and power a wide variety of applications and&nbsp; workloads with ease.<\/p>\n",
-				"title": "Server Solutions",
-				"titleUrl": "/content/emc/en/midmarket-solutions/servers.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Optimize workloads and maximize your storage investments with self-encrypting drives, built-in disaster avoidance and&nbsp; snapshots in each array.<\/p>\n",
-				"title": "Storage Solutions",
-				"titleUrl": "/content/emc/en/midmarket-solutions/storage.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Simplify operations, scale and keep your data protected at every IT layer with #1 hyperconverged infrastructure solutions from Dell EMC.<\/p>\n",
-				"title": "Hyperconverged Solutions",
-				"titleUrl": "/content/emc/en/midmarket-solutions/hci.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>With purpose-built secure infrastructure, you\u2019ll be confident that customer data is always secure and that your business is running with maximum&nbsp; efficiency.<\/p>\n",
-				"title": "Data Protection",
-				"titleUrl": "/content/emc/en/midmarket-solutions/data-protection.htm"
-			}],
-			"promoTarget": "0",
-			"childComponent": "theme-ghf/components/content/navigation-item-list",
-			"ctaList": [{
-				"metricId": "0",
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Explore Midmarket Solutions",
-				"titleUrl": "/content/emc/en/midmarket-solutions/index.htm"
-			}],
-			"jcr:primaryType": "nt:unstructured",
-			"title": "Midmarket Solutions"
-		}],
-		"childComponent": "theme-ghf/components/layout/navigation-item-group",
-		"imageBackground": "#",
-		"ctaList": [{
-			"metricId": "0",
-			"jcr:primaryType": "nt:unstructured",
-			"title": "Dell Technologies on Demand",
-			"titleUrl": "/content/emc/en/solutions/dell-technologies-on-demand.htm"
-		}, {
-			"metricId": "0",
-			"jcr:primaryType": "nt:unstructured",
-			"title": "Flexible Consumption Models",
-			"titleUrlTarget": "1",
-			"titleUrl": "/content/emc/en/payment-solutions/flexible-consumption/index.htm"
-		}, {
-			"metricId": "0",
-			"jcr:primaryType": "nt:unstructured",
-			"title": "Dell Premier Solutions",
-			"titleUrlTarget": "1",
-			"titleUrl": "/content/emc/en/premier-solutions/index.htm"
-		}],
-		"jcr:primaryType": "nt:unstructured",
-		"title": "Solutions",
-		"titleUrl": "#"
-	}, {
-		"promoText": "<p>Deploy, manage and support your IT transformation with our top-rated services.<\/p>\n",
-		"children": [{
-			"jcr:primaryType": "nt:unstructured",
-			"text": "<p>Plan and execute your IT, workforce or application transformation strategy.<\/p>\n",
-			"title": "Consulting Services",
-			"titleUrlTarget": "0",
-			"titleUrl": "/content/emc/en/services/consulting-services/index.htm"
-		}, {
-			"jcr:primaryType": "nt:unstructured",
-			"text": "<p>Get more out of technology starting on day one with efficient Deployment Services.<\/p>\n",
-			"title": "Deployment Services",
-			"titleUrlTarget": "0",
-			"titleUrl": "/content/emc/en/services/deployment-services/index.htm"
-		}, {
-			"jcr:primaryType": "nt:unstructured",
-			"text": "<p>Maximize productivity and uptime with smart technology and IT support experts.<\/p>\n",
-			"title": "Support Services",
-			"titleUrlTarget": "0",
-			"titleUrl": "/content/emc/en/services/support-services.htm"
-		}, {
-			"jcr:primaryType": "nt:unstructured",
-			"text": "<p>Develop the IT skills required to lead and execute transformational strategies.<\/p>\n",
-			"title": "Education Services",
-			"titleUrlTarget": "0",
-			"titleUrl": "https://education.dellemc.com"
-		}, {
-			"jcr:primaryType": "nt:unstructured",
-			"text": "<p>Experts accelerate your technology transition and optimize IT infrastructure<\/p>\n",
-			"title": "Residency Services",
-			"titleUrlTarget": "0",
-			"titleUrl": "/content/emc/en/services/deployment-services/residency-services.htm"
-		}, {
-			"jcr:primaryType": "nt:unstructured",
-			"text": "<p>Transform the IT experience with advanced technologies and global expertise.<\/p>\n",
-			"title": "Managed Services",
-			"titleUrlTarget": "0",
-			"titleUrl": "/content/emc/en/services/managed-services/index.htm"
-		}, {
-			"jcr:primaryType": "nt:unstructured",
-			"text": "<p>Transform your mission-critical applications with enterprise-class cloud and services.<\/p>\n",
-			"title": "Virtustream Cloud Services",
-			"titleUrlTarget": "1",
-			"titleUrl": "https://www.virtustream.com/cloud"
-		}, {
-			"jcr:primaryType": "nt:unstructured",
-			"text": "<p>Get technology you need now and optimize your IT spend with Dell Financial Services.<\/p>\n",
-			"title": "Flexible Consumption Models",
-			"titleUrlTarget": "0",
-			"titleUrl": "/content/emc/en/payment-solutions/flexible-consumption/index.htm"
-		}, {
-			"jcr:primaryType": "nt:unstructured",
-			"text": "<p>Proactively manage support and services with adaptive AI and data-driven technologies<\/p>\n",
-			"title": "Services Technology",
-			"titleUrlTarget": "0",
-			"titleUrl": "/content/emc/en/services/support-deployment-technologies/index.htm"
-		}, {
-			"jcr:primaryType": "nt:unstructured",
-			"text": "<p>Transform the way you buy IT with a single platform for global purchasing.&nbsp;<\/p>\n",
-			"title": "Dell Premier Solutions",
-			"titleUrlTarget": "0",
-			"titleUrl": "/content/emc/en/premier-solutions/index.htm"
-		}],
-		"promoTarget": "0",
-		"promoTitle": "Services",
-		"childComponent": "theme-ghf/components/content/navigation-item-list",
-		"ctaList": [{
-			"metricId": "0",
-			"jcr:primaryType": "nt:unstructured",
-			"title": "Explore all Services",
-			"titleUrlTarget": "0",
-			"titleUrl": "/content/emc/en/services/index.htm"
-		}],
-		"imageBackground": "/content/dam/delltechnologies/images/nav/services-nav.jpg",
-		"jcr:primaryType": "nt:unstructured",
-		"title": "Services",
-		"titleUrl": "#"
-	}, {
-		"children": [{
-			"children": [{
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p style=\"text-align: left;\">Evolve your data with Edge, 5G, AI and IoT to become a digital business that has the power to enhance human progress.<\/p>\n",
-				"title": "Emerging Technologies",
-				"titleUrl": "/content/delltechnologies/en/what-we-do/emerging-technology.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Modernize IT infrastructure to enable new, high-value business capabilities.<\/p>\n",
-				"title": "IT Transformation",
-				"titleUrl": "/content/delltechnologies/en/what-we-do/it-transformation.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Start viewing security as an extension of your business so you can focus on innovation.<\/p>\n",
-				"title": "Security Transformation",
-				"titleUrl": "/content/delltechnologies/en/what-we-do/security-transformation.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>See how today\u2019s CIO can lead their organization\u2019s digital transformation in a unique role as both business leader and technology expert.<\/p>\n",
-				"title": "Connected CIO",
-				"titleUrl": "/content/delltechnologies/en/what-we-do/connectedcio.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Learn how our end-to-end solutions help our customers drive innovation and achieve their business goals.<\/p>\n",
-				"title": "Customer Stories",
-				"titleUrl": "/content/delltechnologies/en/customer-stories.htm"
-			}],
-			"childComponent": "theme-ghf/components/content/navigation-item-list",
-			"ctaList": [{
-				"metricId": "0",
-				"jcr:primaryType": "nt:unstructured",
-				"title": "Explore What We Do",
-				"titleUrl": "/content/delltechnologies/en/what-we-do.htm"
-			}],
-			"jcr:primaryType": "nt:unstructured",
-			"title": "What We Do"
-		}, {
-			"children": [{
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Dell Technologies is a family of seven businesses helping to build the digital future.<\/p>\n",
-				"title": "Who We are",
-				"titleUrl": "/content/delltechnologies/en/corporate/about-us/who-we-are.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>Get to know the leadership team committed to your transformation.<\/p>\n",
-				"title": "Our Leadership",
-				"titleUrl": "/content/delltechnologies/en/corporate/about-us/leadership.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>See Dell Technologies news and news from our family of brands.<\/p>\n",
-				"title": "Newsroom",
-				"titleUrl": "/content/delltechnologies/en/corporate/newsroom.htm"
-			}, {
-				"jcr:primaryType": "nt:unstructured",
-				"text": "<p>We advance sustainability, cultivate inclusion and transform lives with technology<\/p>\n",
-				"title": "Social Impact",
-				"titleUrl": "/content/delltechnologies/en/corporate/social-impact.htm"
-			}],
-			"childComponent": "theme-ghf/components/content/navigation-item-list",
-			"ctaList": [{
-				"metricId": "0",
-				"jcr:primaryType": "nt:unstructured",
-				"title": "View all Corporate Information",
-				"titleUrl": "/content/delltechnologies/en/corporate/index.htm"
-			}],
-			"jcr:primaryType": "nt:unstructured",
-			"title": "Corporate"
-		}],
-		"childComponent": "theme-ghf/components/layout/navigation-item-group",
-		"ctaList": [{
-			"metricId": "0",
-			"jcr:primaryType": "nt:unstructured",
-			"title": "Investors",
-			"titleUrlTarget": "1",
-			"titleUrl": "https://investors.delltechnologies.com/"
-		}, {
-			"metricId": "0",
-			"jcr:primaryType": "nt:unstructured",
-			"title": "Dell Technologies Capital",
-			"titleUrlTarget": "1",
-			"titleUrl": "https://www.delltechnologiescapital.com/"
-		}, {
-			"metricId": "0",
-			"jcr:primaryType": "nt:unstructured",
-			"title": "Careers",
-			"titleUrlTarget": "1",
-			"titleUrl": "https://jobs.delltechnologies.com/"
-		}],
-		"jcr:primaryType": "nt:unstructured",
-		"title": "About Us",
-		"titleUrl": "#"
-	}, {
-		"childComponent": "theme-ghf/components/layout/navigation-item-group",
-		"jcr:primaryType": "nt:unstructured",
-		"title": "Perspectives",
-		"titleUrl": "#"
-	}, {
-		"promoText": "<p>Take advantage of our reliable support services and resources. We\u2019re here to help.<\/p>\n",
-		"children": [{
-			"jcr:primaryType": "nt:unstructured",
-			"title": "Product Support",
-			"titleUrlTarget": "0",
-			"titleUrl": "https://www.dell.com/support/home/us/en/04?app=products"
-		}, {
-			"jcr:primaryType": "nt:unstructured",
-			"title": "Drivers & Downloads",
-			"titleUrlTarget": "0",
-			"titleUrl": "https://www.dell.com/support/home/us/en/04?app=drivers"
-		}, {
-			"jcr:primaryType": "nt:unstructured",
-			"title": "Community",
-			"titleUrlTarget": "0",
-			"titleUrl": "https://www.dell.com/support/home/us/en/04?app=community"
-		}, {
-			"jcr:primaryType": "nt:unstructured",
-			"title": "Contact Technical Support",
-			"titleUrlTarget": "0",
-			"titleUrl": "https://www.dell.com/support/incidents-online/us/en/04/contactus/Dynamic"
-		}, {
-			"jcr:primaryType": "nt:unstructured",
-			"title": "Manage Licenses and Usage Intelligence",
-			"titleUrlTarget": "0",
-			"titleUrl": "https://www.dell.com/support/home/us/en/04?app=licenses"
-		}, {
-			"jcr:primaryType": "nt:unstructured",
-			"title": "MyService360",
-			"titleUrlTarget": "1",
-			"titleUrl": "https://www.dell.com/support/myservice360"
-		}],
-		"promoTarget": "0",
-		"promoTitle": "Support",
-		"childComponent": "theme-ghf/components/content/navigation-item-list",
-		"ctaList": [{
-			"metricId": "0",
-			"jcr:primaryType": "nt:unstructured",
-			"title": "View all Support",
-			"titleUrlTarget": "0",
-			"titleUrl": "https://www.dell.com/support/home/us/en/04"
-		}],
-		"imageBackground": "/content/dam/delltechnologies/images/nav/support-nav.jpg",
-		"jcr:primaryType": "nt:unstructured",
-		"title": "Support",
-		"titleUrl": "#"
-	}]
+"header":{
+  "Menuitems": [
+    {
+      "titleUrl": "#",
+      "title": "Cloud",
+      "promoTitleUrl": "/content/emc/en-us/cloud/index.htm",
+      "promoText": "<p>Simplify, streamline and automate cloud operations with the industry's fastest hybrid cloud deployment.</p>\n",
+      "promoTitle": "Explore cloud",
+      "promoTarget": "0",
+      "ctaList": [
+        {
+          "titleUrl": "/content/emc/en-us/cloud/dell-technologies-cloud/benefits.htm",
+          "metrics": "0",
+          "title": "Why Choose Dell Technologies Cloud?",
+          "titleTarget": "0"
+        },
+        {
+          "titleUrl": "/content/emc/en-us/cloud/dell-technologies-cloud/use-cases.htm",
+          "metrics": "0",
+          "title": "Cloud Use Cases",
+          "titleTarget": "0"
+        },
+        {
+          "titleUrl": "/content/emc/en-us/cloud/dell-technologies-cloud/consumption-options.htm",
+          "metrics": "0",
+          "title": "Consumption Options",
+          "titleTarget": "0"
+        }
+      ],
+      "children": [
+        {
+          "title": "Platforms",
+		  "titleUrl":"",
+		  "metrics":"",
+		  "titleTarget":"",
+		  "text":"",
+          "children": [
+            {
+              "titleUrl": "/content/emc/en-us/cloud/platforms/dell-technologies-cloud-platform.htm",
+              "metrics": "0",
+              "title": "Dell Technologies Cloud Platform",
+              "titleTarget": "0",
+			  "text":""
+            },
+            {
+              "titleUrl": "/content/emc/en-us/cloud/platforms/data-center-as-a-service.htm",
+              "metrics": "0",
+              "title": "Data Center as-a-Service",
+              "titleTarget": "0",
+			  "text":""
+            }
+          ]
+        },
+        {
+          "title": "Cloud Services",
+		    "titleUrl":"",
+		  "metrics":"",
+		  "titleTarget":"",
+		  "text":"",
+          "children": [
+            {
+              "titleUrl": "/content/emc/en-us/cloud/cloud-services/storage/index.htm",
+              "metrics": "0",
+              "title": "Storage",
+              "titleTarget": "0",
+			  "text":""
+            },
+            {
+              "titleUrl": "/content/emc/en-us/cloud/cloud-services/data-protection/index.htm",
+              "metrics": "0",
+              "title": "Data Protection",
+              "titleTarget": "0",
+			  "text":""
+            }
+          ]
+        },
+        {
+          "title": "Solutions",
+		    "titleUrl":"",
+		  "metrics":"",
+		  "titleTarget":"",
+		  "text":"",
+          "children": [
+            {
+              "titleUrl": "/content/emc/en-us/cloud/solutions/validated-designs.htm",
+              "metrics": "0",
+              "title": "Validated Designs",
+              "titleTarget": "0",
+			  "text":""
+            },
+            {
+              "titleUrl": "/content/emc/en-us/cloud/solutions/vdi.htm",
+              "metrics": "0",
+              "title": "VDI",
+              "titleTarget": "0",
+			  "text":""
+            }
+          ]
+        },
+        {
+          "title": "Technology Services",
+		    "titleUrl":"",
+		  "metrics":"",
+		  "titleTarget":"",
+		  "text":"",
+          "children": [
+            {
+              "titleUrl": "/content/emc/en-us/cloud/technology-services/index.htm#tab0=0",
+              "metrics": "0",
+              "title": "Consulting",
+              "titleTarget": "0",
+			  "text":""
+            },
+            {
+              "titleUrl": "/content/emc/en-us/cloud/technology-services/index.htm#tab0=1",
+              "metrics": "0",
+              "title": "Managed Services",
+              "titleTarget": "0",
+			  "text":""
+            },
+            {
+              "titleUrl": "/content/emc/en-us/cloud/technology-services/index.htm#tab0=2",
+              "metrics": "0",
+              "title": "Education",
+              "titleTarget": "0",
+			  "text":""
+            }
+          ]
+        },
+        {
+          "title": "Partners",
+		    "titleUrl":"",
+		  "metrics":"",
+		  "titleTarget":"",
+		  "text":"",
+          "children": [
+            {
+              "titleUrl": "/content/emc/en-us/cloud/partners/partner-overview.htm",
+              "metrics": "0",
+              "title": "Partner Overview",
+              "titleTarget": "0",
+			  "text":""
+            },
+            {
+              "titleUrl": "/content/emc/en-us/cloud/partners/find-a-partner.htm",
+              "metrics": "0",
+              "title": "Why Work with a Dell Technologies Cloud Partner?",
+              "titleTarget": "0",
+			  "text":""
+            },
+            {
+              "titleUrl": "/content/emc/en-us/cloud/partners/become-a-partner.htm",
+              "metrics": "0",
+              "title": "Why Become a Dell Technologies Cloud Partner?",
+              "titleTarget": "0",
+			  "text":""
+            }
+          ]
+        },
+        {
+          "title": "Resources",
+		    "titleUrl":"",
+		  "metrics":"",
+		  "titleTarget":"",
+		  "text":"",
+          "children": [
+            {
+              "titleUrl": "/content/emc/en-us/cloud/resources/index.htm#tab0=0",
+              "metrics": "0",
+              "title": "Analyst Reports and White Papers",
+              "titleTarget": "0",
+			  "text":""
+            },
+            {
+              "titleUrl": "/content/emc/en-us/cloud/resources/index.htm#tab0=1",
+              "metrics": "0",
+              "title": "Solution Briefs and Data Sheets",
+              "titleTarget": "0",
+			  "text":""
+            },
+            {
+              "titleUrl": "/content/emc/en-us/cloud/resources/index.htm#tab0=2",
+              "metrics": "0",
+              "title": "Infographics and eBooks",
+              "titleTarget": "0",
+			  "text":""
+            },
+            {
+              "titleUrl": "/content/emc/en-us/cloud/resources/index.htm#tab0=3",
+              "metrics": "0",
+              "title": "Videos",
+              "titleTarget": "0",
+			  "text":""
+            },
+            {
+              "titleUrl": "/content/emc/en-us/cloud/resources/index.htm#tab0=4",
+              "metrics": "0",
+              "title": "Blogs",
+              "titleTarget": "0",
+			  "text":""
+            },
+            {
+              "titleUrl": "/content/emc/en-us/cloud/resources/index.htm#tab0=5",
+              "metrics": "0",
+              "title": "Webinars",
+              "titleTarget": "0",
+              "text":""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  }
 }
