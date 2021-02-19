@@ -7,14 +7,14 @@
         {
             "isoCountryCode": "us",
             "CountryName": "UnitedStates",
-            "LocalizedCountryName": "UnitedStates",
-            "LanguageCode": "en",
-            "Language": "English",
-            "NativeLanguage": "English",
-            "RegionCode": "us",
-            "RegionName": "Americas",
-            "RedirectUrl": "",
-            "ReferencedProfile": "us_en_19"
+            "localizedCountryName": "UnitedStates",
+            "languageCode": "en",
+            "language": "English",
+            "nativeLanguage": "English",
+            "regionCode": "us",
+            "regionName": "Americas",
+            "redirectUrl": "",
+            "referencedProfile": "us_en_19"
         }
     ]
 }
